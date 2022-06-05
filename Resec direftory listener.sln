@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resec direftory listener", "Resec direftory listener\Resec direftory listener.csproj", "{CFBFA71D-CDD6-49F0-A351-7C355316C634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBFA71D-CDD6-49F0-A351-7C355316C634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBFA71D-CDD6-49F0-A351-7C355316C634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBFA71D-CDD6-49F0-A351-7C355316C634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBFA71D-CDD6-49F0-A351-7C355316C634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4FD46D-8FF7-496C-A06D-247DDEE5C48E}
+	EndGlobalSection
+EndGlobal

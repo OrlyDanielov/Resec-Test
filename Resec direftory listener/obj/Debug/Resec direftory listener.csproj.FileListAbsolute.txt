@@ -1,0 +1,7 @@
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\bin\Debug\Resec direftory listener.exe.config
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\bin\Debug\Resec direftory listener.exe
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\bin\Debug\Resec direftory listener.pdb
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\obj\Debug\Resec direftory listener.csprojAssemblyReference.cache
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\obj\Debug\Resec direftory listener.csproj.CoreCompileInputs.cache
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\obj\Debug\Resec direftory listener.exe
+C:\Users\orlyd\Desktop\Resec direftory listener\Resec direftory listener\obj\Debug\Resec direftory listener.pdb
